@@ -58,3 +58,9 @@ x(n+1) = g(x_n),
 2. x^2 = a
 3. 2x^2 = a + x^2
 4. x = 0.5*(x+a/x) => x_(n+1) = 0.5*(x_n+a/x_n)
+
+## Лабораторная работа 2 (https://drive.google.com/file/d/1kF8nQKY5KPRwhGmF2bg-OqO6gkq0VRUa/view?usp=sharing):
+1. Метод Ньютона
+2. Упрощённый метод Ньютона
+3. Метод Ньютона-Бройдена
+4. Метод секущих
