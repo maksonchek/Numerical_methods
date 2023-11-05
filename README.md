@@ -75,3 +75,8 @@ x(n+1) = g(x_n),
 ## Лабораторная работа № 4 (https://colab.research.google.com/drive/1vynfaJ5rnrC2A9fqLpK91ON-QIShyJ_5?usp=sharing)
 1. Метод итераций
 2. Метод вращений
+
+## Лабораторная работа № 5 (https://colab.research.google.com/drive/1GbWb23CK7NWGSl1XNxwmUU7UqFuL5crf?usp=sharing)
+1. Интерполяция многочленом Лагранжа
+2. Линейная интерполяция
+3. Параболическая интерполяция
