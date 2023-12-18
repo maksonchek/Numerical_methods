@@ -8,6 +8,8 @@
 4. Последовательно выполнить все ячейки
 5. Проверить результат
 
+## Проект: (https://github.com/zhuzzzhha/interpolation)
+
 ## Лабораторная работа 1 (https://colab.research.google.com/drive/1O-xwsTMUF_t3zbZKGp9HDddwA32UmYG5?usp=sharing):
 ### 1. Метод половинного деления:
 
